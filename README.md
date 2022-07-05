@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @feliphe1906 Estudante de Analise e Desenvolvimento em  Sistemas
-- 👀 I’m interested in  aprender mais sobre React Native e Python
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborat com meus conhecimentos e ideias.
+- 👋 Olá so Feliphe, Estudante de Analise e Desenvolvimento em Sistetmas
+- 👀 Tenho conhecimento em HTML5|CSS|JAVASCRIPT|VPN|MAQUINAS VIRTUAIS(AWS E AZURE).
+- 🌱 Atualmente estou estudando React Native.
+- 💞️ Tenho interesse em estuda Python e conquistar uma vaga como Desenvolvedor Mobile ou Analista de segurança da informação.
 - 📫 How to reach me  atraves do meu e-mail: liphe1906@gmail.com
 
 <!---
