@@ -1,4 +1,4 @@
-- 👋 Olá so Feliphe, Estudante de Analise e Desenvolvimento em Sistetmas
+- 👋 Olá sou Feliphe, Estudante de Analise e Desenvolvimento em Sistetmas
 - 👀 Tenho conhecimento em HTML5|CSS|JAVASCRIPT|VPN|MAQUINAS VIRTUAIS(AWS E AZURE).
 - 🌱 Atualmente estou estudando React Native.
 - 💞️ Tenho interesse em estuda Python e conquistar uma vaga como Desenvolvedor Mobile ou Analista de segurança da informação.
