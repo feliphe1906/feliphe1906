@@ -1,8 +1,8 @@
-- 👋 Olá sou Feliphe, Estudante de Analise e Desenvolvimento em Sistemas
-- 👀 Tenho conhecimento em HTML5|CSS|JAVASCRIPT|VPN|MAQUINAS VIRTUAIS(AWS E AZURE).
-- 🌱 Atualmente estou estudando React Native.
-- 💞️ Futuramente vou estudar Python e conquistar uma vaga como Desenvolvedor Mobile ou Analista de segurança da informação.
-- 📫 Me contate atraves do meu e-mail: liphe1906@gmail.com
+- 👋 Olá sou Feliphe, Sou apaixonado por criar soluções digitais incríveis e funcionais que impulsionam negócios e proporcionam experiências excepcionais aos usuários.
+- 👀 Tenho conhecimento em HTML5|CSS|JAVASCRIPT|WORDPRESS
+- 🌱 Atualmente estou estudand  para me tornar mais experiênte em desenvolvimento webCom + de 1 ano de experiência na área, tenho me dedicado a aprimorar minhas habilidades técnicas. Desenvolvo e implemento soluções web personalizadas, utilizando linguagens como HTML5, CSS3 e JavaScript, criando interfaces responsivas e amigáveis, garantindo uma experiência do usuário intuitiva e agradável.
+- 💞️ 
+- 📫 Me contate atraves do meu e-mail: feliphedesenvolvedor@gmail.com
 
 <!---
 feliphe1906/feliphe1906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
